@@ -20,7 +20,8 @@ const providers = [
   '@adonisjs/redis/providers/RedisProvider',
   'adonis-kue/providers/KueProvider',
   '@adonisjs/mail/providers/MailProvider',
-  '@adonisjs/framework/providers/ViewProvider'
+  '@adonisjs/framework/providers/ViewProvider',
+  '@adonisjs/validator/providers/ValidatorProvider'
 ]
 
 /*
